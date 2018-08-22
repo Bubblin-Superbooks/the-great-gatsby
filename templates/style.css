@@ -104,6 +104,11 @@ p.chapter-begin:first-letter {
   font-size: 80%;
 }
 
+.right{
+  text-align: right;
+  float: right;
+}
+
 
 blockquote {
     font-family: 'EB Garamond', serif;
